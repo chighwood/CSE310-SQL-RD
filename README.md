@@ -1,2 +1,2 @@
-# CSE330-SQL-RD
-First Module for CSE330 - SQL Relational Database
+# CSE310-SQL-RD
+First Module for CSE310 - SQL Relational Database
