@@ -24,7 +24,7 @@ while True:
         data2 = [ location, when, shelter, food ]
 
         cursor.execute("INSERT INTO `activities` (`activity`) VALUES (?)", data1)
-        1
+        
         cursor.execute("INSERT INTO `information` ( `location`, `when`, `shelter`, `food`) VALUES ( ?, ?, ?, ?)", data2)
 
 

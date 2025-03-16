@@ -7,7 +7,7 @@ First Module for CSE330 - SQL Relational Database
 This project is a simple Python project that uses SQLite to add, update, delete, and view trips and activities that I add to it. I wanted to keep track of all of the camping activities
 I do over the years. I want to create a database that allows me to keep track of the location I've gone camping or backpacking. There would be a table of what activity was done. There would then be another table that would have several details: location, when - the dates, what shelter I used, and favorite food eaten. You would be able to look up each by the activity and it would provide all of the data associated with it. Over time, I want to expand it with more details and a way to allow me to see it all in an application.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4-BTKYXq09M)
 
 # Relational Database
 
